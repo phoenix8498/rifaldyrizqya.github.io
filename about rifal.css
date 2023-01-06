@@ -1,0 +1,64 @@
+*,
+html {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: whitesmoke;
+}
+.rifaldy {
+    background-color: orangered;
+    color: gold;
+    font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.image-content {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1 {
+    width: 250px;
+    height: 250px;
+}
+.img2 {
+    width: 250px;
+    height: 250px;
+}
+.img3 {
+    width: 250px;
+    height: 250px;
+}
+.img4 {
+    width: 250px;
+    height: 250px;
+}
+.img5 {
+    width: 247px;
+    height: 250px;
+}
+.paragraph {
+    background-color: orangered;
+    color: gold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.japanese {
+    background-color: orangered;
+    color: gold;
+    font-size: 25px ;
+}
+a {
+    border: 1px black;
+    background-color: orangered;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    font-size: medium;
+}
